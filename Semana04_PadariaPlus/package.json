@@ -1,0 +1,12 @@
+{
+  "name": "semana04_padariaplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "padariaPlus.js",
+  "scripts": {
+    "start": "node padariaPlus.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
